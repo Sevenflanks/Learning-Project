@@ -2,6 +2,11 @@ package rhys;
 
 import java.util.Scanner;
 
+//java上機考練習題
+//取多個數值的最大公因數
+
+//使用方式:啟動後輸入資料 以空白間隔開 如下
+//10 5 25
 public class Test2 {
 
 	public static void main(String[] args) {

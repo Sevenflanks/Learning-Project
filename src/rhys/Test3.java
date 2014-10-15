@@ -5,6 +5,18 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.TreeMap;
 
+//java上機考練習題
+//統計資料
+//資料範例:
+//種類 數量 單價
+//CPU 2 100
+//RAN 2 50
+//RAM 4 200
+//DISK 5 100
+//將所有同意種類數量合計，並印出每種類平均單價
+
+//使用方式:啟動後輸入資料 每行為一筆資料 每筆資料的值以空白間隔開 如下
+//CPU 2 100
 public class Test3 {
 	public String idName;
 	public int quan;
