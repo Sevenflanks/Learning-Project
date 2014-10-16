@@ -14,7 +14,7 @@ public class Test {
 		double x = 0;
 		double result = 0;
 		while (true) {
-			
+			Boolean xxx;//無效code 不要在意
 			x = Test.dis(td, bs, cs);
 			td = 100 - (as * x + (100 - cs * x));
 			System.out.println(cs * x);
