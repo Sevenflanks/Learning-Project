@@ -9,12 +9,13 @@ package rhys;
 public class Test {
 
 	public static void main(String[] args) {
+		
 		double as = 6, bs = 4, cs = 10;
 		double td = 100;
 		double x = 0;
 		double result = 0;
 		while (true) {
-			Boolean xxx;//無效code 不要在意
+
 			x = Test.dis(td, bs, cs);
 			td = 100 - (as * x + (100 - cs * x));
 			System.out.println(cs * x);
