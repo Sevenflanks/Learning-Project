@@ -61,5 +61,11 @@
 			<version>3.11-beta2</version>
 		</dependency>
 
+		<!-- SIGAR -->
+		<dependency>
+			<groupId>org.fusesource</groupId>
+			<artifactId>sigar</artifactId>
+			<version>1.6.4</version>
+		</dependency>
 	</dependencies>
 </project>
